@@ -1,0 +1,7 @@
+{
+  "name": "Bulls and Cows",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
